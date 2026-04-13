@@ -5,6 +5,10 @@ public class practice2 {
 		System.out.println("Welcome...");
 		System.out.println("Bhuvi...");
 		
+		System.out.println("Welcome...");
+		System.out.println("Bhuvi...");
+		System.out.println("Welcome...");
+		System.out.println("Bhuvi...");
 		
 	}
 

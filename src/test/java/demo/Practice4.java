@@ -1,5 +1,7 @@
 package demo;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class Practice4 {
 	public static void main(String[] args) {
 		
@@ -8,6 +10,9 @@ public class Practice4 {
 		
 		System.out.println("This is ATE Branch");
 		System.out.println("This is ATE  Finish");
+		
+		System.out.println("Bhuvi good in AT");
+		System.out.println("Bhuvi good in Manual");
 	}
 
 }
