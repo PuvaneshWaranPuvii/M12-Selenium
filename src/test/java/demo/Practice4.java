@@ -13,6 +13,10 @@ public class Practice4 {
 		
 		System.out.println("Bhuvi good in AT");
 		System.out.println("Bhuvi good in Manual");
+		
+		System.out.println("Bhuvi FE");
+		System.out.println("Bhuvi Commit");
+		System.out.println("Bhuvi ATE");
 	}
 
 }
